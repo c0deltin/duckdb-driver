@@ -1,0 +1,14 @@
+.DS_Store
+
+.vscode
+.idea
+.fleet
+
+tmp/
+
+*.sql
+*.log
+*.exe
+*.exe~
+*.dll
+*.dylib
